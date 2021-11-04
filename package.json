@@ -2,12 +2,13 @@
   "name": "team-builder-3000",
   "version": "1.0.0",
   "description": "A command line application for building team profiles",
-  "main": "index.js",
+  "main": "lib/app",
   "directories": {
     "lib": "lib"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest",
+    "start": "node index"
   },
   "repository": {
     "type": "git",
