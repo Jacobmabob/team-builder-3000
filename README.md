@@ -14,7 +14,7 @@
 
   ## Description
 
-        The Team Builder 3000 is a command line application built with nodejs, using the inquirer and jest packages. Through a series of prompts, the user is able to create a profile of their developement team, which is then displayed in a dynamically generated HTML document complete with styling. 
+  The Team Builder 3000 is a command line application built with nodejs, using the inquirer and jest packages. Through a series of prompts, the user is able to create a profile of their developement team, which is then displayed in a dynamically generated HTML document complete with styling. 
   ---
 
   ## Installation
